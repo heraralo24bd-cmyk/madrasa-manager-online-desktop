@@ -1,0 +1,15 @@
+[package]
+name = "madrasa-manager-online"
+version = "1.0.0"
+description = "Madrasa Manager Online — desktop app for fixcareit.com"
+authors = ["Madrasa Manager"]
+edition = "2021"
+rust-version = "1.77"
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
