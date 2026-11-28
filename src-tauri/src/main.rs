@@ -4,5 +4,5 @@
 fn main() {
     tauri::Builder::default()
         .run(tauri::generate_context!())
-        .expect("error while running Madrasa Manager Online");
+        .expect("error while running Alif Edu Manager");
 }

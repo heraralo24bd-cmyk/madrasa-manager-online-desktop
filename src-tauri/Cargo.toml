@@ -1,8 +1,8 @@
 [package]
 name = "madrasa-manager-online"
-version = "1.0.0"
-description = "Madrasa Manager Online — desktop app for fixcareit.com"
-authors = ["Madrasa Manager"]
+version = "1.1.0"
+description = "Alif Edu Manager — desktop app for app.alifedumanager.com"
+authors = ["Alif Edu Manager"]
 edition = "2021"
 rust-version = "1.77"
 

@@ -1,1 +1,1 @@
-{"devDependencies":{"@tauri-apps/cli":"^2.7.0"},"name":"madrasa-manager-online","private":true,"scripts":{"tauri":"tauri"},"version":"1.0.0"}
+{"devDependencies":{"@tauri-apps/cli":"^2.7.0"},"name":"madrasa-manager-online","private":true,"scripts":{"tauri":"tauri"},"version":"1.1.0"}

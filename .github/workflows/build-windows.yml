@@ -23,8 +23,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tagName: v1.0.0
-          releaseName: "Madrasa Manager Online v1.0.0"
-          releaseBody: "Windows installer (NSIS) for Madrasa Manager Online — opens fixcareit.com login."
+          tagName: v1.1.0
+          releaseName: "Alif Edu Manager v1.1.0"
+          releaseBody: "Windows installer (NSIS) for Alif Edu Manager — opens app.alifedumanager.com login."
           releaseDraft: false
           prerelease: false
